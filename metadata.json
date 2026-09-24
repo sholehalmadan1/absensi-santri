@@ -1,0 +1,6 @@
+{
+  "name": "SantriConnect - Presensi Digital Pesantren",
+  "description": "Aplikasi presensi digital kegiatan santri terpadu (Sekolah, Ngaji Kitab, Ngaji Al-Qur'an, Sholat Jamaah, Diniyah) dengan QR Code kartu santri, manajemen ustadz & pengasuh, serta laporan real-time wali santri.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
